@@ -1,0 +1,21 @@
+.App{
+      text-align: center;
+
+}
+.Container{
+      text-align: center;
+     padding:10px 20px;
+}
+.Btn{
+      margin: 10px 20px;
+     padding:10px 20px;
+     border-radius: 5px;
+
+}
+
+.Btn:hover{
+      background: rgb(38, 0, 253);
+      color:cornsilk;
+}
+
+
